@@ -17,6 +17,18 @@ Welcome to the Computer Vision Case Studies repository! This collection is curat
 - [Fundamentals of Image Processing (PDF)](./reference-material/fundamentals_of_image_processing.pdf)  
     A comprehensive document explaining core concepts, mathematical foundations, preprocessing methods, filtering, and feature extraction.
 
+- [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://arxiv.org/pdf/1403.6382.pdf)
+
+- [Explanatory Graphs for CNNs: which reveals the knowledge hierarchy hidden inside conv-layers of a pre-trained CNN](https://arxiv.org/pdf/1812.07997.pdf)
+
+- [TensorFlow tutorials for image classification [Classification of images into their respective categories using Tensorflow]](https://www.tensorflow.org/tutorials/images/classification)
+
+- [Transfer Learning using Tensorflow [Implementation of Transfer Learning using different pre-trained architectures in CNN]](https://www.tensorflow.org/tutorials/images/transfer_learning)
+
+- [Data Augmentation using Tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
+
+- [Leonardo Araujo Santos's gitbook explaining the CNNs [Indepth Mathematical Explanation about CNNs and different layers in CNNs]](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning)
+
 ## Getting Started
 
 1. **Clone the repository:**
