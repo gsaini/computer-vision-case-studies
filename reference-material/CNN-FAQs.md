@@ -1,7 +1,8 @@
 # FAQ: Convolutional Neural Networks
 
 **1. Are there any other Transfer Learning or pre-trained models other than VGG16?**
-Yes, there are other pre-trained models like ResNet, EfficientNet, InceptionNet, and MobileNet architectures that can be implemented in Tensorflow.
+
+Yes, there are other pre-trained models like [ResNet](https://www.analyticsvidhya.com/blog/2021/08/how-to-code-your-resnet-from-scratch-in-tensorflow/), [EfficientNet](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/), [InceptionNet](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/), and [MobileNet](https://www.geeksforgeeks.org/image-recognition-with-mobilenet/) architectures that can be implemented in Tensorflow.
 
 **2. Why should we use Transfer Learning and fine-tune our model?**
 
@@ -14,9 +15,11 @@ Yes, there are other pre-trained models like ResNet, EfficientNet, InceptionNet,
 * Architecture-wise, people spend time researching how every feature interacts with an image and hence it is recommended to use this architecture, and published/publicly known result implies that it gives good result.
 
 **3. Why should we use GPUs for training the deep learning and the Transfer Learning models?**
+
 GPUs can perform multiple, simultaneous computations. This enables the distribution of training processes and can significantly speed up machine learning operations. With GPUs, we can accumulate many cores that use fewer resources without sacrificing efficiency or power.
 
 **4. How can we add labels to both the x-axis and y-axis while plotting the confusion matrix?**
+
 We should use the set_ticklabels() function to set the labels for both axes. We can use the below code to set the labels.
 
 ```py

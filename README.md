@@ -39,17 +39,14 @@ Welcome to the Computer Vision Case Studies repository! This collection is curat
 ## Getting Started
 
 1. **Clone the repository:**
+
      ```bash
      git clone https://github.com/<your-username>/computer-vision-case-studies.git
      ```
+
 2. **Explore the notebooks:**  
      Open the `case-studies/` directory and start with the introductory examples.
 
 ## Contributing
 
 Contributions are welcome! Please submit pull requests for new case studies, improved notebooks, or additional reference materials.
-
-## License
-
-This repository is licensed under the MIT License.
-
