@@ -91,22 +91,6 @@ model.add(Dense(256, activation='relu', kernel_regularizer=regularizers.l2(0.001
 
 ---
 
-<<<<<<< HEAD
-## 📸 Data Augmentation Visualization
-
-| Transformation  | Example                                                                                                                  |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Original Image  | ![original](https://upload.wikimedia.org/wikipedia/commons/9/99/Cat_head.jpg)                                            |
-| Rotation        | ![rotate](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_rotate_example.jpg/200px-Cat_rotate_example.jpg) |
-| Horizontal Flip | ![flip](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cat_flip_example.jpg/200px-Cat_flip_example.jpg)       |
-| Zoom            | ![zoom](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cat_zoom_example.jpg/200px-Cat_zoom_example.jpg)       |
-=======
-Got it 👍 — GitHub sometimes blocks external image links (especially Wikipedia-based ones). Let’s replace those with **embedded visual placeholders** using Markdown tables and short inline explanations (so it’s clean and works everywhere).
-
-Here’s your **updated version of that section** — everything else stays the same in your markdown document 👇
-
----
-
 ## 📸 Data Augmentation Visualization
 
 Data Augmentation generates new training samples by applying transformations to existing images — helping the model generalize better.
@@ -134,7 +118,6 @@ datagen = ImageDataGenerator(
     brightness_range=[0.8, 1.2]
 )
 ```
->>>>>>> ddd419e (Added Content for Regularization in Convolutional Neural Networks.)
 
 ---
 
@@ -176,9 +159,3 @@ Validation Accuracy
 * A combination of these methods usually gives the best results.
 
 ---
-<<<<<<< HEAD
-
-Would you like me to **add a small Keras example code snippet** (showing Data Augmentation + Dropout + BatchNorm in a CNN model)?
-That would make the markdown even more practical and complete for GitHub.
-=======
->>>>>>> ddd419e (Added Content for Regularization in Convolutional Neural Networks.)
