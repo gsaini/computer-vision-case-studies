@@ -50,3 +50,9 @@ Welcome to the Computer Vision Case Studies repository! This collection is curat
 ## Contributing
 
 Contributions are welcome! Please submit pull requests for new case studies, improved notebooks, or additional reference materials.
+
+## 🧠 License & Attribution
+
+Some educational materials and slides in this repository are sourced from **[DeepLearning.AI](https://www.deeplearning.ai/)**  
+and are shared under the terms of the  
+**[Creative Commons Attribution-ShareAlike 2.0 License (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/legalcode)**.
